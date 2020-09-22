@@ -1,10 +1,14 @@
 ## Welcome to Swarm Contracts!
 
-### Demo
+### Introduction
+Swarm contracts are a type of smart contract which enable cooperation with minimal trust.
 
 ### Code
 
 ### Documentation
+
+### Demo
+A video of the simulation can be downloaded [here](https://bit.ly/swarm-contract).
 
 ### Support or Contact
 
